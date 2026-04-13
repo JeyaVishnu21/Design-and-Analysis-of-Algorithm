@@ -1,3 +1,6 @@
+// Implementing String Matching using DECREASE AND CONQUER TECHNIQUE
+
+
 import java.util.*;
 public class Stringmatch{
    public static void main(String[] args){
