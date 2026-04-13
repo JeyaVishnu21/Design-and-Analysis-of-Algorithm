@@ -1,6 +1,5 @@
 // Implementing SELECTION SORT using BRUTE FORCE TECHNIQUE
 
-
 #include<stdio.h>
 int main() {
    int i,n,j,min,temp;
