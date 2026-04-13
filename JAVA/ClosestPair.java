@@ -1,8 +1,9 @@
+// Implementing Closest Pair Algorithm using Brute Force Technique
+
+
 import java.util.*; 
-
 public class ClosestPair {
-
-   public static void main(String[] args) {
+	public static void main(String[] args) {
 
       int n;
       Scanner in=new Scanner(System.in);
