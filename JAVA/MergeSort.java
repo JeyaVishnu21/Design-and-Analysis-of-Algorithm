@@ -1,6 +1,5 @@
 // Implementing MERGE SORT using DIVIDE AND CONQUER TECHNIQUE
 
-
 import java.util.Scanner;
 public class MergeSort {
     public static void main(String[] args) {
