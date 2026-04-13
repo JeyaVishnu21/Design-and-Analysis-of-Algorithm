@@ -1,5 +1,7 @@
-import java.util.Scanner;
+// Implementing QUICK SORT using BRUTE FORCE TECHNIQUE
 
+
+import java.util.Scanner;
 public class QuickSort {
     public static void main(String[] args) {
 
