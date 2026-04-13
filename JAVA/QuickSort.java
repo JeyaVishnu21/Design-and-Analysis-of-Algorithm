@@ -1,6 +1,5 @@
 // Implementing QUICK SORT using DECREASE AND CONQUER TECHNIQUE
 
-
 import java.util.Scanner;
 public class QuickSort {
     public static void main(String[] args) {
