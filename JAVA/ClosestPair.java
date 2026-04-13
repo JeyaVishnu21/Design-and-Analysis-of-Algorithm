@@ -1,4 +1,4 @@
-// Implementing Closest Pair Algorithm using Brute Force Technique
+// Implementing Closest Pair Algorithm using DIVIDE AND CONQUER Technique
 
 
 import java.util.*; 
