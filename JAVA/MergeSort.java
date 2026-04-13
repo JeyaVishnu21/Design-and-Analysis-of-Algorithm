@@ -1,4 +1,4 @@
-// Implementing MERGE SORT using BRUTE FORCE TECHNIQUE
+// Implementing MERGE SORT using DIVIDE AND CONQUER TECHNIQUE
 
 
 import java.util.Scanner;
