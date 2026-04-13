@@ -1,4 +1,4 @@
-// Implementing QUICK SORT using BRUTE FORCE TECHNIQUE
+// Implementing QUICK SORT using DECREASE AND CONQUER TECHNIQUE
 
 
 import java.util.Scanner;
