@@ -1,5 +1,7 @@
-import java.util.Scanner;
+// Implementing MERGE SORT using BRUTE FORCE TECHNIQUE
 
+
+import java.util.Scanner;
 public class MergeSort {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
